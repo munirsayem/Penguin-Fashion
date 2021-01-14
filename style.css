@@ -1,0 +1,50 @@
+body{
+    font-family: system-ui, system-ui, sans-serif;
+}
+.container{
+    background-color:#FFFAFA;
+}
+.special{
+    background-color: white;
+}
+.btn{
+    background-color: #6B8E23;
+    border:none;
+    border-radius:5px;
+    color:whitesmoke;
+    font-size:20px;
+    font-weight:400;
+}
+.para-item-1 img{
+    width:100px;
+}
+.para-item-2 img{
+    width:100px;
+}
+.para-item-3 img{
+    width:100px;
+}
+.item{
+    box-shadow: 10px 10px 40px whitesmoke;
+    border-radius:10px;
+    background-color:white;
+    border:1px solid white;
+}
+
+.bt{
+    color:goldenrod;
+}
+.title{
+    color:gold;
+}
+.name{
+    font-weight: 700;
+    font-size: 50px;
+}
+.extra{
+    margin-left:130px;
+    padding:10px;
+    margin-top:50px;
+    font-size: 30px;
+    font-weight:900;
+}
